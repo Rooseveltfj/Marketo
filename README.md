@@ -3,7 +3,7 @@
 App de compra e venda desenvolvido em React Native + Expo.
 
 ## Stack
-- React Native + Expo SDK 51
+- React Native + Expo SDK 51.0
 - TypeScript (strict mode)
 - Expo Router (file-based navigation)
 - Firebase (Auth, Firestore, Storage)
