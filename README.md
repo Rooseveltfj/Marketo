@@ -1,4 +1,4 @@
-# Marketo — Marketplace Mobile App
+# Marketo — Marketplace Mobile
 
 App de compra e venda desenvolvido em React Native + Expo.
 
